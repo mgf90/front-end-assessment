@@ -1,0 +1,19 @@
+.logo {
+    width: 30%;
+    length: 30%;
+}
+
+h5 {
+    font-size: medium;
+    font: "Roboto Condensed";
+}
+
+#links {
+    text-decoration-line: underline;
+    color: #0074C1;
+}
+
+.btn {
+    background-color: #0074C1;
+    color: white;
+}
